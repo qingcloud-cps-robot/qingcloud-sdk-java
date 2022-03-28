@@ -89,6 +89,6 @@ Checkout our [releases](https://github.com/yunify/qingcloud-sdk-java/releases) a
 
 This repository was automatically generated, please contribute to [`Snips`](https://github.com/yunify/snips) instead.
 
-## LICENSE
+## LICENSE INFO
 
 The Apache License (Version 2.0, January 2004).
